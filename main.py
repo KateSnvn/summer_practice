@@ -1,4 +1,6 @@
 import customtkinter as ctk
+from src.ui.styles import *
+
 import os
 
 ctk.set_appearance_mode("light")
